@@ -20,6 +20,8 @@ A compact, reusable monitoring pattern you can point at any workload.
 
 ## 🏗️ Architecture
 
+> 🎨 **Interactive diagram (industry-standard icons):** [open in Lucid — page 10](https://lucid.app/lucidchart/3da75ce3-ea66-4296-81b3-00d20a60435b/edit)
+
 ```mermaid
 flowchart LR
     EB[EventBridge Schedule]
